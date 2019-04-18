@@ -1,0 +1,9 @@
+.*
+!.gitignore
+bin
+gradle
+gradlew*
+settings.gradle
+/build/
+db.properties
+
